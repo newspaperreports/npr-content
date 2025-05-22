@@ -1,4 +1,3 @@
-<style>
 .asNpr_provider_float_area {
             position: fixed;
             left: 25px;
@@ -66,5 +65,3 @@
             color: #00FF7F;
             background-color: #303030;
         }
-
-</style>
